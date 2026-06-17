@@ -75,6 +75,22 @@ Revenue distribution across regions was relatively balanced, with slight variati
 
 ---
 
+## Visualizations
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](visuals/monthly_revenue_trend.png)
+
+### Revenue by Product Category
+![Revenue by Category](visuals/revenue_by_category.png)
+
+### Revenue by Region
+![Revenue by Region](visuals/revenue_by_region.png)
+
+### Actual vs Predicted Revenue
+![Actual vs Predicted](visuals/actual_vs_predicted.png)
+
+---
+
 ## Machine Learning Models
 
 ### 1. Linear Regression
